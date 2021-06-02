@@ -1,0 +1,14 @@
+.one {
+    width: 200px;
+    height: 200px;
+    margin-left: 40rem;
+    background-color: blue;
+}
+
+.two {
+    margin-top: 4rem;
+    margin-left: 40rem;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
