@@ -1,0 +1,32 @@
+body{
+    font-family: serif;
+}
+
+#page-heading {
+    padding-top: 1rem;
+    text-align: center;
+    margin-top: 25px;
+    color: gray;
+}
+
+#form-content {
+    margin-left: 20%;
+    padding-top: 1rem;
+}
+
+#comment-section {
+    margin-top: 15px;
+    width: 70rem;
+    height: 40rem;
+    border: 1px solid black;
+    overflow:scroll;
+}
+
+#body-header {
+    height: 65vh;
+    opacity: 02;
+    background-image: url(/basichttpserver/contact_list/assets/image/macbook_mouse.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
